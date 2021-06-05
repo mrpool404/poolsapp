@@ -24,6 +24,7 @@ These can be maually editied from the config file or through the UI. You can fin
 ## <a name='versioning'></a> Versioning
 The app has different versions based on the type of deployments. You can use switch to versions from tags/branches. You will find the details of the deployment in the readme file of that version. The main branch will always have the basic app with MongoDB connection.
 
+This version is for DevSecOps pipeline whose details can be found in the Jenkinsfile. You can find more - 
 
 ## <a name="pools-app-frontend"></a> Pools-App-Frontend
 Angular based frontend. It has multiple components with services to communicate with the backend.
